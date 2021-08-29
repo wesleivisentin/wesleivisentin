@@ -14,8 +14,17 @@ src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-origina
   <img align="center" alt="wes-CSS" height="30" width="40" 
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="wes-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  
+  <img align="center" alt="wes-mysql" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg">
   ##
+
+  <img align="center" alt="wes-photoshop" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg">
+   <img align="center" alt="wes-after" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/aftereffects/aftereffects-original.svg">
+  <img align="center" alt="wes-illustrator" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-plain.svg">
+  <img align="center" alt="wes-premier" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/premierepro/premierepro-original.svg">
+ 
+  <div style="display: inline_block"><br>
+  
+  
   <div> 
   
   <a href="https://instagram.com/wesleivisentin" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
