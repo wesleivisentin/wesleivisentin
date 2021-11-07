@@ -23,6 +23,7 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-o
    <img align="center" alt="wes-after" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/aftereffects/aftereffects-original.svg">
   <img align="center" alt="wes-illustrator" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-plain.svg">
   <img align="center" alt="wes-premier" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/premierepro/premierepro-original.svg">
+  <img align="center" alt="wes-figma" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg">
  
   <div style="display: inline_block"><br>
   
