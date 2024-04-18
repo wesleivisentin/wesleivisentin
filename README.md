@@ -1,5 +1,8 @@
 ### Oi! Eu sou o Weslei Visentin 👋
 
+<img src="https://github.com/wesleivisentin/wesleivisentin/assets/78518664/0cc74323-7484-44c3-8157-f732c43c76ec" width=720/ >
+
+
 
 <div>
   <a href="https://github.com/wesleivisentin">
