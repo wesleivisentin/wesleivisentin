@@ -3,12 +3,13 @@
 <img src="https://github.com/wesleivisentin/wesleivisentin/assets/78518664/0cc74323-7484-44c3-8157-f732c43c76ec" width=720/ >
 
 
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wesleivisentin&theme=dracula" alt="wesleivisentin" /></p>
 <div>
   <a href="https://github.com/wesleivisentin">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wesleivisentin&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wesleivisentin&layout=compact&langs_count=7&theme=dracula"/>
 </div>
+    
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=wesleivisentin&label=Profile%20views&color=0e75b6&style=flat%22%20alt=%22wesleivisentin" /> </p>
 <div style="display: inline_block"><br>
 
