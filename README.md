@@ -1,4 +1,13 @@
 ### Oi! Eu sou o Weslei Visentin 👋
+<p>
+  Desenvolvedor de Software | Focado em React e React Native
+
+Com mais de 700 horas de estudo e prática, meu foco atual é o desenvolvimento de aplicações com React e React Native. Tenho bons conhecimentos em HTML, JavaScript, CSS e bancos de dados, além de experiência com ferramentas como WordPress, Bulma, Bootstrap, Tailwind, e Styled Components.
+
+Sou entusiasta de UI/UX design e já completei cursos na área para aprimorar a experiência do usuário em minhas aplicações. Também adquiri conhecimentos de hacking para entender melhor as superfícies de ataque das aplicações do ponto de vista de um atacante, o que melhora minha capacidade de desenvolver sistemas mais seguros. Além disso, tenho experiência em marketing e tráfego pago.
+
+Sempre em busca de novos desafios e aprendizado contínuo!
+</p>
 
 <img src="https://github.com/wesleivisentin/wesleivisentin/assets/78518664/0cc74323-7484-44c3-8157-f732c43c76ec" width=720/ >
 
