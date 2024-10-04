@@ -1,5 +1,6 @@
+<div >
 ### Oi! Eu sou o Weslei Visentin 👋
-<p>
+<p >
   Desenvolvedor de Software | Focado em React e React Native
 
 Com mais de 700 horas de estudo e prática, meu foco atual é o desenvolvimento de aplicações com React e React Native. Tenho bons conhecimentos em HTML, JavaScript, CSS e bancos de dados, além de experiência com ferramentas como WordPress, Bulma, Bootstrap, Tailwind, e Styled Components.
@@ -9,7 +10,9 @@ Sou entusiasta de UI/UX design e já completei cursos na área para aprimorar a 
 Sempre em busca de novos desafios e aprendizado contínuo!
 </p>
 
-<img src="https://github.com/wesleivisentin/wesleivisentin/assets/78518664/0cc74323-7484-44c3-8157-f732c43c76ec" width=720/ >
+
+ <img src="https://github.com/user-attachments/assets/82671ff4-a639-42c0-9c08-88648e5dbdca" width=720 alt="Imagem programador"  />
+
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wesleivisentin&theme=dracula" alt="wesleivisentin" /></p>
@@ -23,13 +26,37 @@ Sempre em busca de novos desafios e aprendizado contínuo!
 <div style="display: inline_block"><br>
 
  
-  <img align="center" alt="wes-ts" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">
-  <img align="center" alt="wes-React-native" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
- 
-  <img align="center" alt="wes-" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="wes-CSS" height="30" width="40" 
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="wes-javascript" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
+
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bulma/bulma-plain.svg" height="40" alt="bulma logo"  />
+  <img width="12" />
+  <img src="https://avatars.githubusercontent.com/u/20658825?s=200&v=4" height="40" alt="bulma logo"  />
+</div>
+
+###
  
   
   ##
@@ -57,3 +84,5 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-o
 </picture>
  
 </div>
+</div>
+
