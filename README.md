@@ -1,4 +1,4 @@
-<div >
+
 ### Oi! Eu sou o Weslei Visentin 👋
 <p >
   Desenvolvedor de Software | Focado em React e React Native
@@ -84,5 +84,5 @@ Sempre em busca de novos desafios e aprendizado contínuo!
 </picture>
  
 </div>
-</div>
+
 
