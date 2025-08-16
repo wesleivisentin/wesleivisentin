@@ -1,13 +1,13 @@
 
-### Oi! Eu sou o Weslei Visentin 👋
+### Hi! I’m Weslei Visentin 👋
 <p >
-  Desenvolvedor de Software | Focado em React e React Native
+  Software Developer | Focused on React and React Native
 
-Com mais de 700 horas de estudo e prática, meu foco atual é o desenvolvimento de aplicações com React e React Native. Tenho bons conhecimentos em HTML, JavaScript, CSS e bancos de dados, além de experiência com ferramentas como WordPress, Bulma, Bootstrap, Tailwind, e Styled Components.
+With over 900 hours of study and hands-on practice, my current focus is developing applications with React and React Native. I have solid knowledge of HTML, JavaScript, CSS, and databases, along with experience using tools such as WordPress, Bulma, Bootstrap, Tailwind, and Styled Components.
 
-Sou entusiasta de UI/UX design e já completei cursos na área para aprimorar a experiência do usuário em minhas aplicações. Também adquiri conhecimentos de hacking para entender melhor as superfícies de ataque das aplicações do ponto de vista de um atacante, o que melhora minha capacidade de desenvolver sistemas mais seguros. Além disso, tenho experiência em marketing e tráfego pago.
+I am a UI/UX design enthusiast and have completed courses in this area to enhance user experience in my applications. I have also acquired knowledge in hacking to better understand application attack surfaces from an attacker’s perspective, which strengthens my ability to build more secure systems. In addition, I have experience in marketing and paid traffic.
 
-Sempre em busca de novos desafios e aprendizado contínuo!
+Always seeking new challenges and continuous learning! 🚀
 </p>
 
 
